@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Real</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+        <string name="steps">Steps to use this app:\n
+		1. Pair your band with the phone\n
+        2. Make sure Microsoft Health is installed\n
+        3. Press the Start button\n
+        4. The MeTile should be updated on your band\n
+    </string>
+    <string name="start">Start</string>
+
+</resources>
